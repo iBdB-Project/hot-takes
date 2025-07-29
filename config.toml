@@ -1,5 +1,5 @@
 title = "iBdB Hot Takes"
-base_url = "https://ibdb-project.github.io/hot-takes/"
+base_url = "https://ibdb-project.github.io/hot-takes"
 description = "iBdB Hot Takes"
 
 compile_sass = true
