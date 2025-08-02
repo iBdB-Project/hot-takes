@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://ibdb-project.github.io/hot-cash/sitemap.xml
